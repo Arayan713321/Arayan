@@ -1,10 +1,3 @@
-✨ Hi there! I’m Arayan Kumar Shaw 👋
-🚀 Passionate Developer | Lifelong Learner | Tech Explorer 💻✨
-
-👨‍💻 I build ideas into apps, craft clean code, and love solving real-world problems.
-📱 Currently diving deep into React Native, Flutter, and modern web tech.
-🔒 Exploring Network Security & AI/ML too!
-🌱 Always learning, always improving — 1% every day!
 
 
 # 💫 About Me:
